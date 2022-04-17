@@ -1,0 +1,713 @@
+/* THE NERVOUS SYSTEM PAGE (SUB-PAGE 1)*/
+
+
+body div a{
+  text-decoration: none;
+  color: #D4A439;
+}
+
+.nervsystem-firstsection{
+  margin-left: 260;
+  margin-right: 260;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+  margin-top: 80;
+}
+
+
+
+.nervsystem-firstsection span{
+  font-weight: 700;
+}
+
+
+.nervsystem-firstsection-grid{
+  display: grid;
+  grid-template-columns: 300px 485px;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+}
+
+
+.imgcaption{
+  font-size: 11px;
+  color: #D4A439;
+  font-weight: 600;
+}
+
+.joinertext{
+  margin-top: -45px;
+  margin-bottom: 120px;
+}
+
+
+
+
+.nervsystem-secondsection{
+  margin-left: 260;
+  margin-right: 260;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+  margin-top: 80;
+}
+
+
+.nervsystem-secondsection-grid{
+  display: grid;
+  grid-template-columns: 300px 485px;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+}
+
+.nervsystem-secondsection span{
+  font-weight: 700;
+}
+
+
+.nervsystem-thirdsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: -80;
+}
+
+.gridone-img{
+  margin-top: 10;
+}
+
+
+.nervsystem-thirdsection span{
+  font-weight: 700;
+}
+
+
+.bodyimg-text-gridone{
+  display: grid;
+  grid-template-columns: 230px 1fr;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+}
+
+
+.bodyimg-text-gridtwo{
+  display: grid;
+  grid-template-columns: 548px 190px;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+  margin-top: -15px;
+  
+}
+
+
+.gridtwo-img{
+  margin-top: 25px;
+}
+
+
+
+.bodyimg-text-joiner{
+  margin-top: -292px;
+}
+
+
+.bodyimg-text-joinertwo{
+  margin-right: 240px;
+  margin-top: -93;
+}
+
+
+
+.bodyimg-text-gridthree{
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+  margin-top: 45;
+}
+
+
+.gridthree-img{
+  margin-top: 10;
+}
+
+
+.nervsys-last-listitem{
+  margin-top: 45;
+  margin-bottom: 120;
+}
+
+
+
+
+.nervsystem-fourthsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+
+.nervsystem-fourthsection span{
+  font-weight: 700;
+}
+
+
+.sublist-line{
+  width: 10px;
+  height: 2px;
+  background-color: #D4A439;
+  opacity: 0.8;
+  
+}
+
+
+
+.nervsystem-sublist{
+  margin-left: 40px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 10px;
+  font-size: 15.3px;
+  margin-bottom: 120;
+}
+
+
+.nervsys-sublist-grid{
+  display: grid;
+  grid-template-columns: 25px 1fr;
+  column-gap: 10px;
+  align-items: center;
+}
+
+
+
+
+.nervsystem-fifthsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+.nervsys-fifthsection-grid{
+  display: grid;
+  grid-template-columns: 485px 300px;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+}
+
+
+
+.nervsysfsec-gridimg{
+  margin-top: 20;
+}
+
+
+
+.nervsys-joiner-text{
+ margin-top: -50;
+ margin-bottom: 120;
+}
+
+
+
+.nervsystem-sixthsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+
+
+
+
+/* WHAT IS THE FAJARDO METHOD OF HOLISTIC BIOMECHANICS PAGE (SUB-PAGE 2) */
+
+
+
+.whatis-firstsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+  margin-bottom: 120;
+}
+
+
+
+.whatis-secondsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+.whatis-secondsection-grid{
+  display: grid;
+  grid-template-columns: 485px 300px;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+}
+
+
+.whatis-scndsec-gridimg{
+  margin-top: 5;
+}
+
+
+.whatis-scndsect-joinertext{
+  margin-top: -15;
+}
+
+
+
+
+
+
+
+
+/* APPROACH PAGE (SUB-PAGE 3) */
+
+
+
+.mainpg1subp3-thirdsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 40;
+}
+
+
+.mp1subp3listheading-grid{
+  display: grid;
+  grid-template-columns: 25px 1fr;
+  column-gap: 10px;
+  align-items: center;
+}
+
+
+.mp1sp3-ts-img{
+  width: 65%;
+  margin-left: 140;
+  margin-top: 30;
+  margin-bottom: 20;
+}
+
+
+.subpg-mainlist-line{
+  width: 20px;
+  height: 2px;
+  background-color: #D4A439;
+  opacity: 0.8;
+}
+
+
+.subpg-mainlistitem-heading{
+  margin-bottom: 0;
+  color: #4D7D49;
+  letter-spacing: 1px;
+  font-size: 16px;
+  margin-top: 0;
+}
+
+
+.subpg-mainlistitem-text{
+  margin-left: 35;
+  margin-right: 35;
+  margin-bottom: 40;
+}
+
+
+.subpg-mainlistitem-texttwo{
+  margin-left: 35;
+  margin-right: 35;
+}
+
+.subg-arrowlist-grid{
+  display: grid;
+  grid-template-columns: 24px 1fr;
+  column-gap: 10px;
+  align-items: center;
+  margin-left: 35;
+  margin-top: 0;
+  margin-bottom: 120;
+}
+
+
+
+.mainlist-arrow{
+  color: #D4A439;
+  font-size: 25;
+  font-weight: 500;
+  margin-bottom: 5;
+}
+
+
+.mainpg1subp3-fourthsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+.mp1subp3-fourthsection-grid{
+  display: grid;
+  grid-template-columns: 565px 300px;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+}
+
+
+.mp1sp3-fourthsec-imgone{
+  margin-top: 0;
+}
+
+
+
+.mp1subp3-fourthsection-gridtwo{
+  display: grid;
+  grid-template-columns: 522px 300px;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+}
+
+
+.mp1sp3-fourthsec-imgtwo{
+  margin-top: 0;
+}
+
+
+.mp1sp3-fsgt-joinertext{
+  margin-top: 0;
+  margin-bottom: 120;
+}
+
+
+.mainpg1subp3-fifthsection-header h3{
+  text-align: center;
+  color: #4D7D49;
+  font-family: Raleway;
+  font-size: 21px;
+  font-weight: 300;
+  letter-spacing: 4px;
+}
+
+
+
+.mainpg1subp3-fifthsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+
+
+
+
+
+/* RESOURCES PAGE (SUB-PAGE 4) */
+
+
+
+.mainpg1subp4-firstsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+
+.mp1subp4-firstsection-grid{
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  column-gap: 50px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-bottom: 40px;
+}
+
+
+.mp1sp4-firstsec-imgone{
+  margin-top: 25;
+}
+
+
+.mp1sp4-firstsec-joinertext{
+  margin-top: -55;
+}
+
+
+
+
+
+
+/* VIDEOS PAGE (SUB-PAGE 5) */
+
+
+
+.mainpg1subp5-firstsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+
+.mp1subp5listheading-grid{
+  display: grid;
+  grid-template-columns: 25px 1fr;
+  column-gap: 10px;
+  align-items: center;
+  margin-bottom: 20;
+
+}
+
+
+.mp1subp5listheading-grid .subpg-mainlistitem-heading{
+  font-weight: 800;
+}
+
+
+.mp1sp5-inlinetext{
+  display: inline;
+  font-size: 14;
+}
+
+
+.mp1sp5-firstsec-heading{
+  margin-left: 35;
+  margin-bottom: 0;
+  font-size: 17;
+}
+
+
+.mp1sp5-firstsec-text{
+  margin-bottom: 50;
+  margin-left: 35;
+  margin-top: -20;
+  font-size: 14;
+}
+
+
+.mainpg1subp5-secondsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+}
+
+
+.mainpg1subp5-secondsection h5{
+ font-size: 14.11;
+  margin-left: 35;
+}
+
+
+.topics{
+  margin-left: 35;
+  margin-top: -20;
+}
+
+
+.topics p{
+  font-size: 12.11;
+  margin-bottom: 20;
+}
+
+
+.topics span{
+  font-weight: 600
+}
+
+
+
+
+
+
+
+
+
+
+
+.mainpg1subp6-firstsection{
+  margin-left: 260px;
+  margin-right: 260px;
+  color: #4D7D49;
+  text-align: justify;
+  letter-spacing: 1.1;
+  line-height: 33px;
+  font-size: 15.3px;
+  margin-top: 80;
+}
+
+
+.mp1sp6-maintext{
+  margin-bottom: 50;
+}
+
+
+.subpg-sublistitem-heading{
+  font-size: 14.5;
+  margin-left: 35;
+  margin-right: 35;
+  margin-bottom: 40;
+}
+
+
+
+
+.mainpg1subp6-firstsection iframe{
+  width:560; 
+  height:315;
+  margin-top: -30;
+  margin-bottom: 60;
+  margin-left: 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
